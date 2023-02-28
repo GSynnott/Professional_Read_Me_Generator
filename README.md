@@ -19,7 +19,7 @@
 
 ## Usage 
 
-    Navigate To The Location Of The Repository In The Terminal And Type "node Index.js". Please Note, This Assumes You Have A Version Of Node Already Installed On Your Machine.
+    Navigate To The Location Of The Repository In The Terminal And Type "node Index.js". Please Note, This Assumes You Have A Version Of Node Already Installed On Your Machine. Video Link: https://drive.google.com/file/d/1rsyeW-RQ6-hm8kIBQimuf_WhA8X_wll8/view
 
 ## License 
 
